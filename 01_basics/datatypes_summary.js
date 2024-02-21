@@ -21,3 +21,9 @@ NON-PRIMITIVE(Reference)
         console.log("hello world")
     }
 */
+/*
+    STACK AND HEAP
+    Stack(primitive datatype) copies
+    Heap (non-primitive) references
+
+*/
